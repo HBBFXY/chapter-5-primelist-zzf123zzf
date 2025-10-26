@@ -8,6 +8,8 @@ def PrimeList(N):
     """
     import math
 
+import math
+
 def PrimeList(N):
     """
     使用埃拉托斯特尼筛法生成小于N的所有质数，并以空格分隔的字符串形式返回。
